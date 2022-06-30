@@ -34,7 +34,7 @@ Hi im Stephan Lukyanov web developer.
 - Верстка сайта https://github.com/strictKraken/Lintu.github.io
     
     Одностраничный лендинг на html/css(sass) js/jquery
-    Результат: [https://strictkraken.github.io/Lintu.github.io/](https://strictkraken.github.io/Lintu.github.io/)
+    [Результат](https://strictkraken.github.io/Lintu.github.io/)
 
 <!--
 **strictKraken/strictKraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
