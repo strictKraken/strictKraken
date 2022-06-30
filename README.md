@@ -29,11 +29,12 @@ Hi im Stephan Lukyanov web developer.
     
     Верстка многостраничного сайта с vue. 
     
-    [Результат]([https://strictkraken.github.io/cubist-museum/#/home](https://strictkraken.github.io/cubist-museum/#/home))
+    [Результат](https://strictkraken.github.io/cubist-museum/#/home))
     
 - Верстка сайта https://github.com/strictKraken/Lintu.github.io
     
     Одностраничный лендинг на html/css(sass) js/jquery
+    
     [Результат](https://strictkraken.github.io/Lintu.github.io/)
 
 <!--
