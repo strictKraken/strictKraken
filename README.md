@@ -5,7 +5,7 @@ Hi im Stephan Lukyanov web developer.
 
 <img align='right' alt='GIF' src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif](https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif" width="400" height="250">
 
-## Skills:
+## Skills::
 
 
 
