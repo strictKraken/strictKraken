@@ -21,9 +21,7 @@ Hi im Stephan Lukyanov web developer.
 - Python 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-
-
-
+<!--
 
 ## My works:
 
@@ -38,7 +36,7 @@ Hi im Stephan Lukyanov web developer.
     Одностраничный лендинг на html/css(sass) js/jquery
     
     [Результат](https://strictkraken.github.io/Lintu.github.io/)
-
+-->
 <!--
 **strictKraken/strictKraken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
